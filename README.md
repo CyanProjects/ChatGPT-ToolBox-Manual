@@ -1,15 +1,15 @@
 # ChatGPT-ToolBox
 
-由ChatGPT负责编写的ChatGPT工具箱。除了向ChatGPT提供必要的数据，尽可能不由人类写任何代码。
+ChatGPT Toolbox人工优化版本。除了包含原版ChatGPT-Toolbox的功能，并且将人工优化UI, 各种功能的代码。
 
-**_当前版本的API混合模式可能不适合沉浸式扮演。若需要AI沉浸式催眠、扮演，请使用_**: [这个项目](https://github.com/bigemon/ChuanhuChatGPT)
+**_Toolbox内建的 _API混合模式_ 可能不适合沉浸式扮演。若需要AI沉浸式催眠、扮演，请使用_**: [Bigemon/ChuanhuChatGPT](https://github.com/bigemon/ChuanhuChatGPT)
 
+
+🪦 **WAFBypass 已于4月16日失效**
 
 ⚠️ 现已将脚本镜像指向 gitmirror，请注意更新
 
 ✅ **新增链路维持功能,减少网络错误**
-
-🪦 **WAFBypass 已于4月16日失效**
 
 
 # 使用方法
