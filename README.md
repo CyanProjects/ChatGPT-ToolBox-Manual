@@ -1,4 +1,6 @@
-# ChatGPT-ToolBox
+# ChatGPT-ToolBox-Manual
+
+_Working on using HTML, instead of native alert()_
 
 ChatGPT Toolbox人工优化版本。除了包含原版ChatGPT-Toolbox的功能，并且将人工优化UI, 各种功能的代码。
 
